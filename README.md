@@ -4,9 +4,9 @@ Below is a well-structured README file for the project "Codemate - AI-Powered Co
 
 # Codemate: AI-Powered Code Reviewer
 
-<center><img width="221" height="85" alt="image" src="https://github.com/user-attachments/assets/d93927e7-17d3-48ed-8382-cd05669cd978" />
-
-
+<p align="center">
+  <img width="221" height="85" alt="Codemate Logo" src="https://github.com/user-attachments/assets/d93927e7-17d3-48ed-8382-cd05669cd978" />
+</p>
 ## 🚀 Overview
 
 Codemate is an AI-powered code review tool designed to help improve the quality of their code. It provides detailed feedback on code snippets, including suggestions for improvement, step-by-step explanations, and overall ratings. Whether you're a beginner or an experienced developer, Codemate aims to enhance your coding skills by offering actionable insights into your code.

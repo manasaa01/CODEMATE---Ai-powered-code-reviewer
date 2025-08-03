@@ -4,9 +4,26 @@ Below is a well-structured README file for the project "Codemate - AI-Powered Co
 
 # Codemate: AI-Powered Code Reviewer
 
-<p align="center">
-  <img src="https://github.com/manasaa01/CODEMATE---Ai-powered-code-reviewer/blob/main/logo.png" alt="Codemate Logo" width="200"/>
-</p>
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="white" rx="15" />
+
+  <!-- Curly Brace as "C" -->
+  <path d="M30,30 
+           C20,30 20,40 30,50 
+           C20,50 20,60 30,70 
+           C40,70 50,60 50,50 
+           C50,40 40,30 30,30 Z" 
+        fill="#2D3EF7" />
+
+  <!-- AI Chip inside the brace -->
+  <circle cx="40" cy="50" r="5" fill="#00C853" />
+  <rect x="37" y="48" width="6" height="4" fill="#00C853" opacity="0.7"/>
+
+  <!-- Text -->
+  <text x="65" y="45" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">Codemate</text>
+  <text x="65" y="65" font-family="Arial, sans-serif" font-size="12" fill="#666">AI-Powered Code Reviewer</text>
+</svg>
 
 ## 🚀 Overview
 

@@ -4,7 +4,7 @@ Below is a well-structured README file for the project "Codemate - AI-Powered Co
 
 # Codemate: AI-Powered Code Reviewer
 
-<img width="221" height="85" alt="image" src="https://github.com/user-attachments/assets/d93927e7-17d3-48ed-8382-cd05669cd978" />
+<center><img width="221" height="85" alt="image" src="https://github.com/user-attachments/assets/d93927e7-17d3-48ed-8382-cd05669cd978" />
 
 
 ## 🚀 Overview
